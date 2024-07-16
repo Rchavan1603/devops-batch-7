@@ -1,4 +1,4 @@
-ear
+This is a all use command
     2  lsb_release
     3  lsb_release -a
     4  clear
